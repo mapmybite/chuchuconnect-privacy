@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ChuchuConnect Privacy Policy</title>
+<style>
+body{font-family:Arial,sans-serif;margin:0;background:#fff7fb;color:#333;line-height:1.6}
+.header{background:linear-gradient(135deg,#7b61ff,#ff8ac7);color:white;text-align:center;padding:40px 20px}
+.container{max-width:900px;margin:30px auto;background:white;padding:30px;border-radius:18px;box-shadow:0 4px 20px #0001}
+h1,h2{color:#5b4bff}
+.header h1{color:white;margin:0}
+.footer{text-align:center;padding:25px;color:#666}
+</style>
+</head>
+<body>
+
+<div class="header">
+<h1>ChuchuConnect</h1>
+<p>Privacy Policy & Terms</p>
+</div>
+
+<div class="container">
+<h2>Privacy Policy</h2>
+<p><strong>Effective Date:</strong> July 2026</p>
+
+<p>ChuchuConnect is an educational and parent community app designed to support families raising autistic children through learning activities, communication support, and a safe community space.</p>
+
+<h2>Information We Collect</h2>
+<ul>
+<li>Name and email address when users sign in.</li>
+<li>Profile information users choose to provide.</li>
+<li>Community posts, comments, likes, and uploaded images.</li>
+<li>App usage and technical information needed to improve performance and security.</li>
+</ul>
+
+<h2>How We Use Information</h2>
+<ul>
+<li>To provide learning games and app features.</li>
+<li>To support parent community discussions.</li>
+<li>To manage accounts, profiles, posts, and notifications.</li>
+<li>To improve app safety, performance, and user experience.</li>
+</ul>
+
+<h2>Firebase and Third-Party Services</h2>
+<p>ChuchuConnect may use Google Firebase services such as Authentication, Cloud Firestore, Cloud Storage, and Cloud Messaging. These services help provide secure sign-in, store community content, upload images, and send notifications.</p>
+
+<h2>Children's Privacy</h2>
+<p>ChuchuConnect is intended for families and parents. Parents or guardians are responsible for supervising children while using the app. We do not knowingly collect personal information directly from children without parental involvement.</p>
+
+<h2>User Content and Images</h2>
+<p>Users may upload profile photos and community images. Users should only upload content they have permission to share. Community content may be visible to other users inside the app.</p>
+
+<h2>Notifications</h2>
+<p>The app may send notifications about replies, community activity, account updates, or important app information.</p>
+
+<h2>Data Security</h2>
+<p>We use reasonable safeguards to help protect user information. However, no online service can be guaranteed to be completely secure.</p>
+
+<h2>Data Deletion</h2>
+<p>Users may request account or data deletion by contacting us at the email address below.</p>
+
+<h2>Contact Us</h2>
+<p>Email: <strong>chuchuconnect@gmail.com</strong></p>
+
+<hr>
+
+<h2>Terms & Conditions</h2>
+<p>By using ChuchuConnect, users agree to use the app respectfully and safely. ChuchuConnect provides educational and community support features, but it is not a medical diagnosis or treatment service.</p>
+
+<p>Users are responsible for the content they post. Harmful, unsafe, abusive, or inappropriate content may be removed.</p>
+
+<p>ChuchuConnect may update these terms or this privacy policy as the app grows.</p>
+</div>
+
+<div class="footer">
+<p>© 2026 ChuchuConnect. All rights reserved.</p>
+</div>
+
+</body>
+</html>
